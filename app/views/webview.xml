@@ -1,0 +1,5 @@
+<Alloy>
+  <Window id="webview_window" touchEnabled="true">
+    <WebView id="more_info" willHandleTouches="false"></WebView>
+  </Window>
+</Alloy>

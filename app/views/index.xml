@@ -1,0 +1,7 @@
+<Alloy>
+  <NavigationWindow id="root" platform="ios">
+    <Window id="listview" title="List" class="container">
+      <TableView id="table" />
+    </Window>
+  </NavigationWindow>
+</Alloy>
